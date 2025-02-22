@@ -1,7 +1,7 @@
 
 
 <a href="https://discord.com/users/1275875678104981620" target="_blank">
-    <img width="50%" align="right" alt="Discord Status" src="https://lanyard.cnrad.dev/api/513357335528472606?bg=161B22&borderRadius=5px%205px%200%200&animated=true&hideDiscrim=true&idleMessage=Probably%20doing%20something%20else...">
+    <img width="50%" align="right" alt="Discord Status" src="https://lanyard.cnrad.dev/api/1275875678104981620?bg=161B22&borderRadius=5px%205px%200%200&animated=true&hideDiscrim=true&idleMessage=Probably%20doing%20something%20else...">
 </a>
 
 # Hello 👋
